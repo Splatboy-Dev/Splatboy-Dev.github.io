@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <script>
+      
+      const processingdotjs = require('Processing.js');
+      noStroke();
+
+      var draw = function(){
+        fill(mouseX, mouseY, mouseX + mouseY, 50);
+        ellipse(mouseX, mouseY, mouseX, mouseY);
+        fill(mouseY, mouseX, mouseY - mouseX);
+       ellipse(mouseY, mouseX, mouseY, mouseX, 50);
+      };
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
