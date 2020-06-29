@@ -14,6 +14,7 @@ author: Lucas/Splatboy Dev
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Test.html: "https://splatboy-dev.github.io/_posts/test.html"
     - PrankPlugin: "https://splatboy-dev.github.io/"
     - SharpenShaders: "https://github.com/splatboy20081/SharpenShaders/"
   Author's home: "https://github.com/splatboy20081"
