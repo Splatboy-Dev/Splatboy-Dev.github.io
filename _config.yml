@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Test.html: "https://splatboy-dev.github.io/_posts/test.html"
-    - PrankPlugin: "https://splatboy-dev.github.io/"
+    - IncreasedPranks: "https://splatboy-dev.github.io/_posts/IncreasedPranks.md"
     - SharpenShaders: "https://github.com/splatboy20081/SharpenShaders/"
   Author's home: "https://github.com/splatboy20081"
 
